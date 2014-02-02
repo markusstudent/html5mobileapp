@@ -66,9 +66,7 @@ textarea {
    ========================================================================== */
 
 .center {
-	top: 50%;
 	left: 50%;
-	margin-top: -120px;
 	margin-left: -160px;
 	position: fixed;
 }
